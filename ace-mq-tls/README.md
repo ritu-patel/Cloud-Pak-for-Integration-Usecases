@@ -53,7 +53,7 @@ Here are the ACE properties: <br/>
 
 ### Important:
  * **You DO NOT need additional SNI mapping for service name with port 1414**
- * If App Connect and MQ are on the same cluster but different namespaces then you have to provide \<queue-manager-service-name\>.\<your-namespace\>.svc.cluster.local 
+ * If App Connect and MQ are on the same cluster but different namespaces then you have to provide \<queue-manager-service-name\>.\<your-namespace\>.svc
 
 # Different users in MQ
 johndoe vs aceuser
