@@ -1,0 +1,2 @@
+kafka::kafkasec es-prod-external-user WN5VvGK8zNUy
+truststore::truststorePass placeholder NPQRgWtNULOM
