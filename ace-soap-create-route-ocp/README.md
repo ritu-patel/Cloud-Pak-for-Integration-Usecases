@@ -1,9 +1,11 @@
-# How to create a SOAP application
-# How to create a route for HTTP nodes in OpenShift
+# 1. How to create a SOAP application
+# 2. How to create a route for HTTP nodes in OpenShift
 
 ## SOAP Application
 
 [![Eventstreams to MQ](http://img.youtube.com/vi/4GQR9L44X3Y/0.jpg)](https://www.youtube.com/watch?v=4GQR9L44X3Y "Cloud Pak for Integration: Event Streams with MQ Connector")
+
+<br />
 
 ## Create a route for HTTP nodes
 <br />
