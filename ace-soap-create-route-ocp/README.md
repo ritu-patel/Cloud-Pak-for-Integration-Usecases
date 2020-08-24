@@ -11,7 +11,6 @@
 <br />
 
 ## B. Create a route for HTTP nodes
-<br />
 
 ### Step 1. You will need to know the port number and path where your SOAP application will be listening to. You can find it from your WSDL file. For example, in my soap application the soap:address is listening on port 7800 at path /calculator_msSOAP_HTTP_Service.
 
