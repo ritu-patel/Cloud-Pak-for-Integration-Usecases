@@ -25,6 +25,8 @@
 
 # External Cluster Access for MQ
 
+[ACE configuration on CP4I](https://www.youtube.com/watch?v=4zYoLk1drtY)
+
 ACE properties
 <ul>
 <li> Queue Name: IN.PERSIST </li>
@@ -38,6 +40,9 @@ ACE properties
 </ul>
 
 # Internal Cluster Access for MQ
+
+[ACE configuration on CP4I](https://www.youtube.com/watch?v=4zYoLk1drtY)
+
 If App Connect Dashboard and MQ are deployed on the same cluster then you can use service name to establish connection between them
 Here are the ACE properties: <br/>
 <ul>
