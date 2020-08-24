@@ -1,13 +1,16 @@
-# 1. How to create a SOAP application
-# 2. How to create a route for HTTP nodes in OpenShift
+# This tutorial focuses on two usecases
+## A. How to create a SOAP application
+## B. How to create a route for HTTP nodes in OpenShift
+ 
+<br />
 
-## SOAP Application
+## A. SOAP Application
 
 [![Eventstreams to MQ](http://img.youtube.com/vi/4GQR9L44X3Y/0.jpg)](https://www.youtube.com/watch?v=4GQR9L44X3Y "Cloud Pak for Integration: Event Streams with MQ Connector")
 
 <br />
 
-## Create a route for HTTP nodes
+## B. Create a route for HTTP nodes
 <br />
 
 ### Step 1. You will need to know the port number and path where your SOAP application will be listening to. You can find it from your WSDL file. For example, in my soap application the soap:address is listening on port 7800 at path /calculator_msSOAP_HTTP_Service.
